@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:08:18 -0400] "GET /CustomerContact/customersList HTTP/1.1" 200 12 http-bio-8080-exec-2 805
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:11:50 -0400] "POST /CustomerContact/customer HTTP/1.1" 415 1048 http-bio-8080-exec-5 12
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:12:18 -0400] "POST /CustomerContact/customer HTTP/1.1" 500 9712 http-bio-8080-exec-6 169
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:14:47 -0400] "POST /CustomerContact/customer HTTP/1.1" 500 9708 http-bio-8080-exec-2 1066
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:18:07 -0400] "POST /CustomerContact/customer HTTP/1.1" 201 164 http-bio-8080-exec-2 906
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:18:14 -0400] "GET /CustomerContact/customersList HTTP/1.1" 200 166 http-bio-8080-exec-3 26
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:19:04 -0400] "POST /CustomerContact/customer HTTP/1.1" 201 134 http-bio-8080-exec-4 26
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:21:00 -0400] "POST /CustomerContact/customer HTTP/1.1" 201 161 http-bio-8080-exec-2 1029
+0:0:0:0:0:0:0:1 - - [24/Aug/2018:02:21:10 -0400] "GET /CustomerContact/customersList HTTP/1.1" 200 442 http-bio-8080-exec-3 32
